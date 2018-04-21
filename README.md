@@ -3,10 +3,14 @@
 Firmware for chip ESP8266 including PS4 4.55 Exploits
 
 V3 1.1 (RC1)
+============
+
 File: retrogamerfirmv3_rc1.bin includes next payloads with multilangue spanish / english support.
 AppToUSB, Original (Payload Injections 9020 Port ) , HEN, HEN-VR, DUMPER, BACKUP, FTP, Enable Browser, Block FW Updates, Unblock FW Updates, Arabic Guy v1.0 GTA V ModMenu, WildeModz v.1.1 GTA V ModMenu, Lamance v.0.8 GTA V ModMenu.
 
 V3 1.0 (Stable)
+===============
+
 File: retrogamerfirmv3.bin includes next payloads with only english support.
 AppToUSB, Original (Payload Injections 9020 Port ) , HEN, HEN-VR, DUMPER, BACKUP, FTP, Enable Browser, Block FW Updates, Unblock FW Updates, Arabic Guy v1.0 GTA V ModMenu, WildeModz v.1.1 GTA V ModMenu, Lamance v.0.7 GTA V ModMenu.
 
