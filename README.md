@@ -119,3 +119,6 @@ Original (Port 9020): https://github.com/Cryptogenic/PS4-4.55-Kernel-Exploit
 Update Blocker: https://github.com/LightningMods/PS4-4.55-Update-Blocker-HEN
 
 Uninstall Update Blocker: https://github.com/LightningMods/PS4-4.55-Update-Blocker-HEN
+
+MiraCFW - MiraProject 4.55: https://github.com/CrazyVoidProgrammer/mira-project
+
