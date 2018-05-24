@@ -8,6 +8,8 @@ Added MiraCFW, custom firmware support. Payload added for MiraHEN. In order to c
 
 That should be enough to get debug log into your PC Computer.
 
+https://github.com/RetroGamer74/ESP8266_PS4_RetroGamerFirmV3/releases/tag/v1.2-RC2
+
 
 V3 1.1 (RC1) 
 ============
