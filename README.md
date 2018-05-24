@@ -2,6 +2,13 @@
 
 Firmware for chip ESP8266 including PS4 4.55 Exploits
 
+V3 1.2 (RC2) 
+============
+Added MiraCFW, custom firmware support. Payload added for MiraHEN. In order to connect to get full debugger info, remember to connect to the WiFi Chip from your own computer. Usually the PS4 IP should be 10.10.10.100, so from your computer connected to the WiFi chip, you can send the command: telnet 10.10.10.100 9998
+
+That should be enough to get debug log into your PC Computer.
+
+
 V3 1.1 (RC1) 
 ============
 
